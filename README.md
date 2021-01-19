@@ -17,7 +17,7 @@ nltk
 urllib
 
 
-# QA system:
+# How to run this QA system:
 
 python2 QA_model.py
 
