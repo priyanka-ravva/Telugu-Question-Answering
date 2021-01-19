@@ -5,10 +5,15 @@ Python implementation of [AVADHAN: System for Open-Domain Telugu Question Answer
 
 # Prerequisites
 Python2.7
+
 StanfordCoreNLP
+
 BeautifulSoup
+
 sklearn
+
 nltk
+
 urllib
 
 
