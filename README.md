@@ -1,6 +1,5 @@
 # Telugu-Question-Answering
-This repository explains the python script for Telugu Question Answering task.
-[AVADHAN: System for Open-Domain Telugu Question Answering](https://dl.acm.org/doi/pdf/10.1145/3371158.3371193)
+Python implementation of [AVADHAN: System for Open-Domain Telugu Question Answering](https://dl.acm.org/doi/pdf/10.1145/3371158.3371193)
 
 
 
